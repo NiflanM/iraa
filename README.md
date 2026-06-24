@@ -19,7 +19,7 @@ If you are developing a production application, we recommend using TypeScript wi
 git clone https://github.com/NiflanM/iraa
 
 # 2. Navigate into the project directory
-cd your-repo-name
+cd iraa
 
 # 3. Install dependencies
 npm install
